@@ -1,0 +1,46 @@
+body {
+  min-height: 2000px;
+  background-color: #f0abab;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  height: 750px;
+}
+
+#about {
+  background-color: #ffffffc5;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#service {
+  background-color: #f0abab;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#news {
+  background-color: #ffffffc5;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#contact {
+  background-color: #f0abab;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.card-body {
+  background-color: #e78c8c;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+
+.card-title {
+  font-size: larger;
+  font-weight: bold;
+  font-style: oblique;
+}
